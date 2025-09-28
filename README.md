@@ -7,10 +7,11 @@ Farcaster is a decentralized social protocol built on Ethereum and Optimism.
 It allows users to own their social identity and interact across multiple apps.
 
 ## Topics
-- Protocol basics
-- Frames (interactive posts)
-- Farcaster clients
-- Ecosystem projects
+This repository includes notes on:
+
+- [Protocol Basics](notes/protocol-basics.md)
+- [Frames](notes/frames.md)
+- [Ecosystem](notes/ecosystem.md)
 
 ## Useful Links
 - [Farcaster Docs](https://docs.farcaster.xyz/)
